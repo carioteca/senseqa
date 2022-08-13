@@ -1,13 +1,17 @@
 
 # Teste Sense Data QA
 
+# Olá, eu sou a Letícia! Seja bem-vindo ao meu teste de QA 👋
+
+## Requisito
+
+Ter instalado o Google Chrome
 
 
 
 ## Stack utilizada
 
 **Back-end:** Python, Selenium
-
 
 
 ## Instalação
@@ -32,8 +36,14 @@ Instale requirement
 ```bash
     pip install -r requeriment.txt
 ```
-Rodar o projeto
+## Rodando o testes
+
+Para rodar os testes, rode o seguinte comando
+
 ```bash
   python teste.py
 ```
+
+
+
 
