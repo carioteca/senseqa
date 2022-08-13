@@ -1,7 +1,7 @@
 
 # Teste Sense Data QA
 
-# Olá, eu sou a Letícia! Seja bem-vindo ao meu teste de QA 👋
+Olá, eu sou a Letícia! Seja bem-vindo ao meu teste de QA 👋
 
 ## Requisito
 
