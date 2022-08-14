@@ -34,7 +34,7 @@ Instale virtual env e ative
 Instale requirement
 
 ```bash
-    pip install -r requiriment.txt
+    pip install -r requirement.txt
 ```
 ## Rodando o testes
 
